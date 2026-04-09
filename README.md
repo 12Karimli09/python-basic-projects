@@ -1,4 +1,3 @@
-# Python Basic Projects
 
 This repository contains two small Python projects I created while learning programming basics:
 
